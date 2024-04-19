@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "4a815dc2f81578de",
+    "type": "split",
+    "children": [
+      {
+        "id": "6aa1d3acdc0d838b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6fdcbcfa03983f8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "65d77b392b3f75b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "b512a970844b01eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c2dfbae583c9eff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5ce4cdc153069b66",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dd81de00dd5f00e2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1ead461e185ae1af",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa866ff01d1d3ed5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac9138175a430148",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "03 -  Introdução ao Desenvolvimento web /Tipos de Desenvolvedores.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "17f2b86da780fe7c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "03 -  Introdução ao Desenvolvimento web /Tipos de Desenvolvedores.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b8775a5e06006ac7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e733118a0cf929f0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "03 -  Introdução ao Desenvolvimento web /Tipos de Desenvolvedores.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "0c2dfbae583c9eff",
+  "lastOpenFiles": [
+    "03 -  Introdução ao Desenvolvimento web /Aplicação Web   Vs SPA.md",
+    "03 -  Introdução ao Desenvolvimento web /Tipos de Desenvolvedores.md",
+    "03 -  Introdução ao Desenvolvimento web ",
+    "Html - Introdução ",
+    "02 -  Como Funciona a internet ",
+    "02 -   LINGUAGEM DE PROGRAMAÇÃO",
+    "01 - Dentro Do Computador/01 - Fundamentos da computação",
+    "02- Sistema Operaciional",
+    "01 - Dentro Do Computador/02- Sistema Operaciional",
+    "01 - Dentro Do Computador"
+  ]
+}
