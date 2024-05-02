@@ -1,5 +1,5 @@
 ##  Início de Uma Jornada Épica no Desenvolvimento de Sistemas
-
+![Jornadadoheroi](/imagens/jornadaheroi.webp)
 Adentre o reino do desenvolvimento de sistemas, uma terra rica em desafios e recompensas. Esta introdução propõe não apenas familiarizar o leitor com o assunto, mas também situar a aventura educacional dentro do modelo da "jornada do herói", um arquétipo narrativo que reflete nosso processo de aprendizado. Ao longo desta viagem, você será chamado a se tornar um herói no universo do desenvolvimento full-stack, começando pela mítica chamada para aventura até o triunfante retorno ao lar, agora como mestre dos códigos e do desing system .
 
 **1. A Chamada para Aventura: Introdução ao Computador**  
