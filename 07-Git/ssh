@@ -1,0 +1,5 @@
+Como configurar o SSH no Github?
+
+O SSH é um protocolo de rede que permite que a conexão com determinados servidores por meio de uma comunicação criptografada, trazendo mais segurança para as transações de dados.
+
+O Github permite que você crie chaves SSH para que você gerencie tudo de maneira remota, com segurança e sem precisar fornecer seu nome de usuário e token de acesso pessoal toda vez que quiser acessar.
