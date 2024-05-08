@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d6fdcbcfa03983f8",
+            "id": "2aac887b3e5fc9fa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "08- chatgptfordevs/03 - Prompret pobre vs Pompret Rico.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 -  Introdução ao Desenvolvimento web /Tipos de Desenvolvedores.md",
+                "file": "08- chatgptfordevs/03 - Prompret pobre vs Pompret Rico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 -  Introdução ao Desenvolvimento web /Tipos de Desenvolvedores.md",
+                "file": "08- chatgptfordevs/03 - Prompret pobre vs Pompret Rico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 -  Introdução ao Desenvolvimento web /Tipos de Desenvolvedores.md"
+                "file": "08- chatgptfordevs/03 - Prompret pobre vs Pompret Rico.md"
               }
             }
           }
@@ -144,6 +148,20 @@
   },
   "active": "0c2dfbae583c9eff",
   "lastOpenFiles": [
+    "08- chatgptfordevs/Sem título",
+    "08- chatgptfordevs/02- Enginer Prompet.md",
+    "08- chatgptfordevs/03 - Prompret pobre vs Pompret Rico.md",
+    "08- chatgptfordevs/01 - ChatGPT.md",
+    "07-Git/01-git-github.md",
+    "README.md",
+    "imagens/Pasted image 20240508105311.png",
+    "08- chatgptfordevs",
+    "imagens/Pasted image 20240508104915.png",
+    "Estilizando as Paginas/Desvendando o CSS  A  Arte de Estilizar a Web.md",
+    "Estilizando as Paginas/CSS.md",
+    "Estilizando as Paginas/Box Model.md",
+    "Estilizando as Paginas/Como Funciona Css?.md",
+    "Estilizando as Paginas",
     "03 -  Introdução ao Desenvolvimento web /Aplicação Web   Vs SPA.md",
     "03 -  Introdução ao Desenvolvimento web /Tipos de Desenvolvedores.md",
     "03 -  Introdução ao Desenvolvimento web ",
