@@ -14,7 +14,7 @@ Em novembro de 2022, a [OpenAI](https://openai.com/), quem criou o chat gpt, la
 No mês seguinte, em dezembro de 2022, Steven Tey e Dom Eccleston desenvolvem a extensão do CHAT GPT para o Chrome.
 
 ## **2023**
-
+![[Pasted image 20240509144501.png]]
 Em fevereiro de 2023, a OpenAI lança o ChatGPT Plus por $ 20 por mês para começar a monetizar a [tecnologia](https://www.acolabam.com.br/blog/tecnologia-nas-empresas). No mesmo mês, a Microsoft integrou o GPT ao [Bing](https://br.bing.com/), tornando o mecanismo de busca ainda mais eficiente. 
 
 Em março de 2023, a OpenAI lança o GPT-4, um sistema de inteligência artificial ainda mais poderoso que o anterior. Dessa vez, a plataforma tem ainda mais funcionalidades, como a compreensão de imagem e texto. Por enquanto, está disponível apenas através do ChatGPT Plus.

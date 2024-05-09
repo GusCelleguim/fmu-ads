@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08- chatgptfordevs/03 - Prompret pobre vs Pompret Rico.md",
+                "file": "08-aumentandosuaprodutividade/03 - Prompret pobre vs Pompret Rico.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1935854f3cca3f96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08-aumentandosuaprodutividade/03 - Prompret pobre vs Pompret Rico.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7d9d4e2431411294",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08-aumentandosuaprodutividade/Torne-se um Mestre nas Entrevistas Técnicas.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "08- chatgptfordevs/03 - Prompret pobre vs Pompret Rico.md",
+                "file": "08-aumentandosuaprodutividade/Torne-se um Mestre nas Entrevistas Técnicas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "08- chatgptfordevs/03 - Prompret pobre vs Pompret Rico.md",
+                "file": "08-aumentandosuaprodutividade/Torne-se um Mestre nas Entrevistas Técnicas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "08- chatgptfordevs/03 - Prompret pobre vs Pompret Rico.md"
+                "file": "08-aumentandosuaprodutividade/Torne-se um Mestre nas Entrevistas Técnicas.md"
               }
             }
           }
@@ -146,22 +171,29 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "0c2dfbae583c9eff",
+  "active": "7d9d4e2431411294",
   "lastOpenFiles": [
-    "08- chatgptfordevs/Sem título",
-    "08- chatgptfordevs/02- Enginer Prompet.md",
-    "08- chatgptfordevs/03 - Prompret pobre vs Pompret Rico.md",
-    "08- chatgptfordevs/01 - ChatGPT.md",
+    "08-aumentandosuaprodutividade/01 - ChatGPT.md",
+    "08-aumentandosuaprodutividade/Torne-se um Mestre nas Entrevistas Técnicas.md",
+    "08-aumentandosuaprodutividade/03 - Prompret pobre vs Pompret Rico.md",
+    "08-aumentandosuaprodutividade/04 - Colocando Na Nossa Rotina Para  aprimoramento.md",
+    "08-aumentandosuaprodutividade/02- Enginer Prompet.md",
+    "Pasted image 20240509144501.png",
+    "Pasted image 20240509144456.png",
+    "Pasted image 20240509144449.png",
+    "05- Estilizando as Paginas/Box Model.md",
+    "05- Estilizando as Paginas/CSS.md",
+    "05- Estilizando as Paginas/Desvendando o CSS  A  Arte de Estilizar a Web.md",
+    "07-Git/03-Principaiscomandos.md",
+    "07-Git/02-primeirospassos.md",
     "07-Git/01-git-github.md",
+    "08- chatgptfordevs/Sem título",
     "README.md",
     "imagens/Pasted image 20240508105311.png",
-    "08- chatgptfordevs",
+    "08-aumentandosuaprodutividade",
     "imagens/Pasted image 20240508104915.png",
-    "Estilizando as Paginas/Desvendando o CSS  A  Arte de Estilizar a Web.md",
-    "Estilizando as Paginas/CSS.md",
-    "Estilizando as Paginas/Box Model.md",
     "Estilizando as Paginas/Como Funciona Css?.md",
-    "Estilizando as Paginas",
+    "05- Estilizando as Paginas",
     "03 -  Introdução ao Desenvolvimento web /Aplicação Web   Vs SPA.md",
     "03 -  Introdução ao Desenvolvimento web /Tipos de Desenvolvedores.md",
     "03 -  Introdução ao Desenvolvimento web ",
@@ -170,7 +202,6 @@
     "02 -   LINGUAGEM DE PROGRAMAÇÃO",
     "01 - Dentro Do Computador/01 - Fundamentos da computação",
     "02- Sistema Operaciional",
-    "01 - Dentro Do Computador/02- Sistema Operaciional",
-    "01 - Dentro Do Computador"
+    "01 - Dentro Do Computador/02- Sistema Operaciional"
   ]
 }

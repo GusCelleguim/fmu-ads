@@ -32,9 +32,16 @@ Receita
 
 ## Campos Semanticos de como ChatGpt deveria conversar 
 
+Usando a Regra dos 3R 
+
+`REGRAS  RESUMO E ROTEIRO`
+
+Exemplo de uso :
+```md
+
 {Resumo}
 [Autoridade] : Gustavo de andrade Celleguim, um desenvolvedor full stack 
-[Avatar] : Pessoas Leigas no assunto e desenvolvedores Juniors 
+[Avatar]: Pessoas Leigas no assunto e desenvolvedores Juniors 
 [Problema] : Como Iniciar no Desenvolvimento Web 
 
 {Roteiro}
@@ -45,6 +52,13 @@ Resolver [Problema]
 > Siga o {Roteiro} acima e subsitua os elementos entre [] do {roteiro} por aqueles listados em {Resumo} acima. 
 > >mantenha o tom e o ritmo  mas reescreva as palavras em {roteiro} para que seja diferente do original expandindo ou mudando conforme o necessario
 
-Me escreva um artigo sobre os primeiros passos no desenvovimento web em um tom de uma conversa de amigo
+Me escreva um artigo sobre os primeiros passos no desenvovimento web em um tom de uma conversa de amigo ``` 
+# **Materiais Complementares**
 
+Nossos materiais complementares e de apoio têm como objetivo apresentar informações para facilitar e enriquecer a sua jornada de aprendizado. Para isso, links úteis (como slides, repositórios e páginas oficiais) serão disponibilizados, além de dicas sobre como se destacar na DIO e no mercado de trabalho 😉
 
+### **👇 3 Repositórios com ótimos prompts para chatGPT pra você nunca ter que se preocupar em comprar PDFs de prompts:**
+
+[https://github.com/f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)  
+[https://github.com/promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering)  
+[https://github.com/machinemindsai/awesome-chatgpt-prompts-for-programmers](https://github.com/machinemindsai/awesome-chatgpt-prompts-for-programmers)
