@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08-aumentandosuaprodutividade/03 - Prompret pobre vs Pompret Rico.md",
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7d9d4e2431411294",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05- Estilizando as Paginas/flex-box.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,19 +44,54 @@
             }
           },
           {
-            "id": "7d9d4e2431411294",
+            "id": "cd6943823fe06942",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08-aumentandosuaprodutividade/Torne-se um Mestre nas Entrevistas Técnicas.md",
+                "file": "08-aumentandosuaprodutividade/03 - Prompret pobre vs Pompret Rico.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fbf45e896d5f141f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05- Estilizando as Paginas/Box Model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ebffb7368dc66f50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06-  Animando as Paginas/05- boleanos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9788c5f75a76032c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06-  Animando as Paginas/03- Variaveis.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "08-aumentandosuaprodutividade/Torne-se um Mestre nas Entrevistas Técnicas.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "08-aumentandosuaprodutividade/Torne-se um Mestre nas Entrevistas Técnicas.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "08-aumentandosuaprodutividade/Torne-se um Mestre nas Entrevistas Técnicas.md"
+                "file": "README.md"
               }
             }
           }
@@ -171,19 +218,39 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "7d9d4e2431411294",
+  "active": "2aac887b3e5fc9fa",
   "lastOpenFiles": [
-    "08-aumentandosuaprodutividade/01 - ChatGPT.md",
-    "08-aumentandosuaprodutividade/Torne-se um Mestre nas Entrevistas Técnicas.md",
+    "06-  Animando as Paginas/01- O QUE E JAVASCRIPT ?.md",
     "08-aumentandosuaprodutividade/03 - Prompret pobre vs Pompret Rico.md",
+    "06-  Animando as Paginas/03- Variaveis.md",
+    "06-  Animando as Paginas/02- variaveis.md",
+    "06-  Animando as Paginas/04- numero e operadores.md",
+    "06-  Animando as Paginas/05- boleanos.md",
+    "06-  Animando as Paginas/06 função em javascript.md",
+    "05- Estilizando as Paginas/flex-turismo.md",
+    "imagens/Pasted image 20240510092259.png",
+    "imagens/Pasted image 20240510092336.png",
+    "imagens/Pasted image 20240510092444.png",
+    "imagens/Pasted image 20240510094229.png",
+    "imagens/Pasted image 20240510094245.png",
+    "imagens/Pasted image 20240510094302.png",
+    "06-  Animando as Paginas",
+    "05- Estilizando as Paginas/Box Model.md",
+    "05- Estilizando as Paginas/CSS.md",
+    "05- Estilizando as Paginas/Desvendando o CSS  A  Arte de Estilizar a Web.md",
+    "05- Estilizando as Paginas/flex-box.md",
+    "05- Estilizando as Paginas/flex-wrap.md",
+    "05- Estilizando as Paginas/justify-content.md",
     "08-aumentandosuaprodutividade/04 - Colocando Na Nossa Rotina Para  aprimoramento.md",
+    "08-aumentandosuaprodutividade/05- Torne-se um Mestre nas Entrevistas Técnicas.md",
+    "08-aumentandosuaprodutividade/06- Mudando Seu Codigo Com ChatGPT-4.md",
+    "08-aumentandosuaprodutividade/Torne-se um Mestre nas Entrevistas Técnicas.md",
+    "08-aumentandosuaprodutividade/Usando Para Projetos.md",
+    "08-aumentandosuaprodutividade/01 - ChatGPT.md",
     "08-aumentandosuaprodutividade/02- Enginer Prompet.md",
     "Pasted image 20240509144501.png",
     "Pasted image 20240509144456.png",
     "Pasted image 20240509144449.png",
-    "05- Estilizando as Paginas/Box Model.md",
-    "05- Estilizando as Paginas/CSS.md",
-    "05- Estilizando as Paginas/Desvendando o CSS  A  Arte de Estilizar a Web.md",
     "07-Git/03-Principaiscomandos.md",
     "07-Git/02-primeirospassos.md",
     "07-Git/01-git-github.md",
@@ -191,17 +258,13 @@
     "README.md",
     "imagens/Pasted image 20240508105311.png",
     "08-aumentandosuaprodutividade",
-    "imagens/Pasted image 20240508104915.png",
     "Estilizando as Paginas/Como Funciona Css?.md",
     "05- Estilizando as Paginas",
-    "03 -  Introdução ao Desenvolvimento web /Aplicação Web   Vs SPA.md",
-    "03 -  Introdução ao Desenvolvimento web /Tipos de Desenvolvedores.md",
     "03 -  Introdução ao Desenvolvimento web ",
     "Html - Introdução ",
     "02 -  Como Funciona a internet ",
     "02 -   LINGUAGEM DE PROGRAMAÇÃO",
     "01 - Dentro Do Computador/01 - Fundamentos da computação",
-    "02- Sistema Operaciional",
-    "01 - Dentro Do Computador/02- Sistema Operaciional"
+    "02- Sistema Operaciional"
   ]
 }

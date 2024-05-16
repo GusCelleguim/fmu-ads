@@ -5,10 +5,10 @@
 
 ### Ajustes e melhorias
 
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
+O projeto ainda está em desenvolvimento por mim  e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-- [x] Tarefa 1
-- [x] Tarefa 2
-- [x] Tarefa 3
-- [ ] Tarefa 4
-- [ ] Tarefa 5
+- [x]  Documentação planejada para estudantes da ETEC
+- [x] Organização voltada para introdução de Desenvolvimento web 
+- [x] Templetes e links Ensinando sobre a jornada 
+- [ ] Plataforma de aprendizagem 
+- [ ] Livros para colocar em recomendação  

@@ -18,5 +18,5 @@ especialista em {Nome da linguagem} o cargo da entrevista e para uma posição d
 
 ```
 
-
+Importante mostrar como codigo Funciona para mostrar para o recrutador o que e interessante do seu projeto para entrevista 
 
