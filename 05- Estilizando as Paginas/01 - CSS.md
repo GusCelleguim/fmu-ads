@@ -10,7 +10,7 @@ CSS (Cascading Style Sheets ou Folhas de Estilo em Cascata) é a linguagens de m
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css"> // Link do Css no documento 
+    <link rel="stylesheet" href="style.css"> //a  Link do Css no documento 
     <title>Document</title>
 </head>
 ```

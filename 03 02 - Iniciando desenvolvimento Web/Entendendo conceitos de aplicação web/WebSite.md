@@ -11,7 +11,7 @@ A ideia de agrupamentos de sites pode se referir a várias coisas:
 - **Hospedagem compartilhada**: Vários sites que compartilham um mesmo servidor, o que é comum em serviços de hospedagem web.
 
 
-![[Pasted image 20240430134151.png]]
+<img src="../imagens/website.png">
 
 ### Tipos de Sites: Estático vs. Dinâmico
 
@@ -25,8 +25,3 @@ A ideia de agrupamentos de sites pode se referir a várias coisas:
   - **Definição**: Um site dinâmico é capaz de exibir diferentes conteúdos e fornecer interação do usuário, como páginas que se ajustam ao comportamento do usuário, interfaces interativas, e dados atualizados em tempo real. Sites dinâmicos geralmente usam linguagens de servidor como PHP, JavaScript do lado do servidor (Node.js), ou Python para gerar conteúdo em tempo real.
   
   - **Exemplo**: Uma loja online que mostra produtos diferentes para usuários baseado em suas buscas anteriores ou localização, ou um serviço de notícias que atualiza automaticamente com novos artigos.
-
-
-
-
-

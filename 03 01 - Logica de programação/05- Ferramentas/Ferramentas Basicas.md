@@ -43,6 +43,7 @@ Para quem está começando a jornada no desenvolvimento de software ou já é ex
     
     - **Vantagens:** Interface de usuário limpa e organizada, foco em reduzir a desordem visual, boa performance.
     - 
+      
 - **Thorium Browser**
     
     - **Descrição:** Menos conhecido, mas promissor por suas características de personalização e foco em desempenho.
