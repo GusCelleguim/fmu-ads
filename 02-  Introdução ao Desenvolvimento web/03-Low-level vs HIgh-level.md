@@ -1,4 +1,4 @@
-Na programação, os termos "low-level" (baixo nível) e "high-level" (alto nível) referem-se a diferentes tipos de linguagens de programação com base em quão próximas elas estão do código de máquina ou do hardware e quão abstratas elas são das operações do computador. Aqui está uma exploração detalhada de cada um e suas diferenças principais:
+ Na programação, os termos "low-level" (baixo nível) e "high-level" (alto nível) referem-se a diferentes tipos de linguagens de programação com base em quão próximas elas estão do código de máquina ou do hardware e quão abstratas elas são das operações do computador. Aqui está uma exploração detalhada de cada um e suas diferenças principais:
 
 ### Low-Level Programming
 - **Proximidade ao Hardware**: Linguagens de baixo nível estão mais próximas do hardware e permitem maior controle sobre os recursos do sistema. Isso inclui operações diretamente no processador e gestão direta da memória.

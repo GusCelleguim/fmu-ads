@@ -3,6 +3,7 @@
 
 **Importância:** O software é o conjunto de instruções que direciona o hardware a executar tarefas específicas. Ele é fundamental para qualquer operação em um sistema computacional, permitindo a funcionalidade desde operações básicas até aplicações complexas.
 
+
 ### Hardware
 
 **Importância:** O hardware é a espinha dorsal de qualquer dispositivo computacional. Ele é composto por componentes físicos e eletrônicos como circuitos, microchips, e dispositivos de armazenamento. Sem hardware, não haveria uma plataforma para executar software, tornando-o essencial para a execução de programas e para a interação com o usuário e outros sistemas.

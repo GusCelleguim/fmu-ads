@@ -1,4 +1,4 @@
-
+ 
 Codificar, ou programar, é o processo de escrever instruções para computadores utilizando linguagens de programação. Esta prática é essencial para criar softwares, aplicativos e sistemas que executam tarefas específicas, desde operações simples, como calcular seu imposto de renda, até complexidades como analisar grandes conjuntos de dados ou pilotar veículos autônomos.
 
 ### O Que é Codar?

@@ -60,7 +60,7 @@ Essa seria a possibilidade do usuário se comunicar com diferentes aplicativos e
 
 
 
-Limitaçoes do ChatGPt 
+
 
 
 

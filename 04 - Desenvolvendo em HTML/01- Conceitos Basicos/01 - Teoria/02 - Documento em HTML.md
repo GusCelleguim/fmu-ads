@@ -6,6 +6,9 @@ Nome do arquivo: ]
 
 **Conteúdo do arquivo HTML:**
 
+
+Digitando `Html:5` ele cria um emmet e acresenta toda a documentação em html 
+
 ```html
 <!DOCTYPE html>
 <html lang="en"> <!-- Língua do navegador -->
@@ -17,7 +20,9 @@ Nome do arquivo: ]
 	<title>Nome do Título</title>
 </head>
 
+
+<!-- Conteúdo do corpo do documento HTML aqui aonde mostra todo conteudo para o usuario  -->
 <body>
-	<!-- Conteúdo do corpo do documento HTML aqui -->
+	
 </body>
 </html>
