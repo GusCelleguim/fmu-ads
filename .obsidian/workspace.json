@@ -8,24 +8,22 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7a14bba9ef02d2c3",
+            "id": "c1661d14794f011e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "03 01 - Logica de programação/05-01 Exer de fixação.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20240621133249.png"
               }
             }
           },
           {
-            "id": "966567894b594c1e",
+            "id": "8cd4a3cc2c27b0c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 01 - Logica de programação/07 - Operadores.md",
+                "file": "03 01 - Logica de programação/funçoes/O que são função e como criar.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 01 - Logica de programação/07 - Operadores.md",
+                "file": "03 01 - Logica de programação/funçoes/O que são função e como criar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 01 - Logica de programação/07 - Operadores.md",
+                "file": "03 01 - Logica de programação/funçoes/O que são função e como criar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 01 - Logica de programação/07 - Operadores.md"
+                "file": "03 01 - Logica de programação/funçoes/O que são função e como criar.md"
               }
             }
           }
@@ -159,39 +157,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "966567894b594c1e",
+  "active": "8cd4a3cc2c27b0c7",
   "lastOpenFiles": [
-    "03 01 - Logica de programação/06 - Aprendendo Guardar Variaveis em Caixa.md",
-    "03 01 - Logica de programação/07 - Operadores.md",
-    "03 01 - Logica de programação/05-01 Exer de fixação.md",
-    "03 01 - Logica de programação/05 - Entendendo os tipos de variaveis.md",
-    "Como achar suas Respostas de maneira eficiente.md",
-    "03 01 - Logica de programação/04- Variaveis.md",
-    "03 01 - Logica de programação/05- Ferramentas/Ferramentas Basicas.md",
     "03 01 - Logica de programação/03- Estrutura de um software e seu ambiente de desenvolvimento.md",
-    "06-  Animando as Paginas/03- Variaveis.md",
+    "03 01 - Logica de programação/funçoes/O que são função e como criar.md",
+    "03 01 - Logica de programação/0 - Ferramentas/Ferramentas Basicas.md",
+    "Pasted image 20240621133249.png",
+    "06-  Animando as Paginas/06 função em javascript.md",
+    "03 01 - Logica de programação/12 - como funciona o For e o While.md",
+    "03 01 - Logica de programação/funçoes",
+    "03 01 - Logica de programação/11 - Introdução Switch Case.md",
+    "03 01 - Logica de programação/10 - Introodução ao if.md",
+    "03 01 - Logica de programação/09- Operadores de comparação.md",
+    "03 01 - Logica de programação/08- Definição de escolpo.md",
+    "03 01 - Logica de programação/06 - Aprendendo Guardar Variaveis em Caixa.md",
+    "03 01 - Logica de programação/05 - Entendendo os tipos de variaveis.md",
+    "03 01 - Logica de programação/04- Variaveis.md",
     "03 01 - Logica de programação/02- Fluxograma de dados.md",
     "03 01 - Logica de programação/01 - O Que e Logica De Programação.md",
+    "03 01 - Logica de programação/exer",
+    "03 01 - Logica de programação/exer/01- Exer de Verificação de usuario.md",
+    "03 01 - Logica de programação/05-01 Exer de fixação.md",
+    "03 01 - Logica de programação/comparaçãoexer",
+    "03 01 - Logica de programação/05- Ferramentas/Comparação.md",
+    "03 01 - Logica de programação/07 - Operadores Matematicos.md",
+    "10 - Vagadesejada/Recomendação.md",
+    "10 - Vagadesejada/03 - NÃO FAÇA ISSO DE JEITO NENHUM.md",
+    "10 - Vagadesejada/02 - Não tenho experiencia o que fazer.md",
+    "10 - Vagadesejada/01 - Montando curriculo chamativo.md",
+    "10 - Vagadesejada/Curriculo importante/modelo 1 - 2023.md",
+    "10 - Vagadesejada/pdf/Deixando seu Linkedin Atrativo.pdf",
+    "10 - Vagadesejada/02 - 8 pilares para um curriculo.md",
+    "10 - Vagadesejada/01 - Objetivo de um curriculo.md",
+    "10 - Vagadesejada/Curriculo importante",
+    "10 - Vagadesejada/pdf",
+    "10 - Vagadesejada",
     "processimputetc.png",
     "processimputetc.png.crdownload",
-    "05- Estilizando as Paginas/Grid CSS.md",
-    "08-aumentandosuaprodutividade/03 - Prompret pobre vs Pompret Rico.md",
     "03 01 - Logica de programação",
-    "08-aumentandosuaprodutividade/04 - Colocando Na Nossa Rotina Para  aprimoramento.md",
-    "08-aumentandosuaprodutividade/05- Torne-se um Mestre nas Entrevistas Técnicas.md",
-    "08-aumentandosuaprodutividade/06- Mudando Seu Codigo Com ChatGPT-4.md",
-    "07-Git/02-primeirospassos.md",
-    "07-Git/03-Principaiscomandos.md",
-    "08-aumentandosuaprodutividade/01 - ChatGPT.md",
-    "08-aumentandosuaprodutividade/02- Enginer Prompet.md",
-    "08-aumentandosuaprodutividade/Torne-se um Mestre nas Entrevistas Técnicas.md",
-    "08-aumentandosuaprodutividade/Usando Para Projetos.md",
-    "02-  Introdução ao Desenvolvimento web/04- Tipos de Desenvolvedores.md",
-    "03 02 - Iniciando desenvolvimento Web/Entendendo conceitos de aplicação web/Web application.md",
-    "03 02 - Iniciando desenvolvimento Web/Entendendo conceitos de aplicação web/WebPages.md",
-    "03 02 - Iniciando desenvolvimento Web/Entendendo conceitos de aplicação web/WebSite.md",
-    "05- Estilizando as Paginas/10-responsividade",
-    "style.css",
-    "index.html"
+    "05- Estilizando as Paginas/10-responsividade"
   ]
 }

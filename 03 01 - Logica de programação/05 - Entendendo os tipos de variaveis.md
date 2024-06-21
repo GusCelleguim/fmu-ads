@@ -1,4 +1,4 @@
-### Tipos de Variáveis em JavaScript
+NUME### Tipos de Variáveis em JavaScript
 
 Em JavaScript, os tipos de variáveis são amplamente categorizados em dois grupos: **primitivos** e **de referência**. Vamos explorar esses tipos com mais detalhes.
 
