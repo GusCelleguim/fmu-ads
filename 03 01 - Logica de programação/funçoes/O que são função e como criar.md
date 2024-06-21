@@ -18,7 +18,7 @@ function torrar (pao) {
 torrar("Pão de forma");
 
 
-![[Pasted image 20240621133249.png]]
+[[![Pasted image 20240621133249.png](https://github.com/GusCelleguim/fmu-ads/blob/main/Pasted%20image%2020240621133249.png?raw=true)]]
 
 exemplo :
 
